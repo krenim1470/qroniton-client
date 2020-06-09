@@ -1,2 +1,2 @@
 # qroniton-client
-QRONITON web client
+QRONITON web client - coming soon.
